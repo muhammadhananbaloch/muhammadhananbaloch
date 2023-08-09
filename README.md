@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Hanan Baloch</h1>
-<h3 align="center">A frontend developer and aspiring data scientist.</h3>
+<h3 align="center">A frontend developer and an aspiring data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhananbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhananbaloch" /> </p>
 
@@ -10,6 +10,12 @@
 <p align="left"> <a href="https://twitter.com/muhammadhanann" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadhanann?logo=twitter&style=for-the-badge" alt="muhammadhanann" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS ,NodeJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/muhammadhananbaloch](https://github.com/muhammadhananbaloch)
+
+- 📫 How to reach me **muhammadhananbaloch@outlook.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammadhananbaloch/](https://www.linkedin.com/in/muhammadhananbaloch/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
