@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Hanan Baloch</h1>
-<h3 align="center">A frontend developer and an aspiring data scientist.</h3>
+<h3 align="center">An aspiring data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhananbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhananbaloch" /> </p>
 
