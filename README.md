@@ -4,7 +4,7 @@
 <h3 align="center">An aspiring data scientist.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Data Analysis<br><br>👨‍💻 All of my projects are available at https://github.com/muhammadhananbaloch<br><br>📫 How to reach me muhammadhananbaloch@outlook.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/muhammadhananbaloch/
+🌱 I’m currently learning Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/muhammadhananbaloch<br><br>📫 How to reach me muhammadhananbaloch@outlook.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/muhammadhananbaloch/
 
 
 ## 🌐 Socials:
