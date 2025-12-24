@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Hanan Baloch</h1>
-<h3 align="center">An aspiring data scientist.</h3>
+<h3 align="center">AI Engineer</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/muhammadhananbaloch<br><br>📫 How to reach me muhammadhananbaloch@outlook.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/muhammadhananbaloch/
